@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dootv-dashboard-demo/static/css/main.3dfbbb7b.css",
+    "main.js": "/dootv-dashboard-demo/static/js/main.4939293b.js",
+    "index.html": "/dootv-dashboard-demo/index.html",
+    "main.3dfbbb7b.css.map": "/dootv-dashboard-demo/static/css/main.3dfbbb7b.css.map",
+    "main.4939293b.js.map": "/dootv-dashboard-demo/static/js/main.4939293b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dfbbb7b.css",
+    "static/js/main.4939293b.js"
+  ]
+}
